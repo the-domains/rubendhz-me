@@ -1,0 +1,14 @@
+name: rubendhz.me
+layout_spectrum: 0.37110665998734793
+typography_spectrum: 0.26564491001933
+color:
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  brandStrength: 0.7382163577221906
+  lightness: 0.2960301566386311
+  saturation: 0.905622086037568
+  rhythmicContrast: 0.5643761808064678
